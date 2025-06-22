@@ -8,7 +8,11 @@ When a PDF is uploaded to Azure Blob Storage, the system:
 2. **Summarizes the content** using **Azure OpenAI GPT**
 3. **Saves the summary** as a `.txt` file back to Blob Storage
 
-> **Demo Video:** [Watch on YouTube](https://youtu.be/Mf24fIWuZaA)
+---
+
+## Demo Videos
+- **Project Walkthrough:** [Watch on YouTube](https://youtu.be/Mf24fIWuZaA)
+- **Deployed Function in Action:** [Watch on YouTube](https://youtu.be/6p81fdJskzs)
 
 ---
 
@@ -64,4 +68,5 @@ func start --verbose
 
 ---
 
-[![Watch the demo](https://img.youtube.com/vi/Mf24fIWuZaA/0.jpg)](https://youtu.be/Mf24fIWuZaA)
+[![Project Walkthrough](https://img.youtube.com/vi/Mf24fIWuZaA/0.jpg)](https://youtu.be/Mf24fIWuZaA)
+[![Deployed Function Demo](https://img.youtube.com/vi/6p81fdJskzs/0.jpg)](https://youtu.be/6p81fdJskzs)

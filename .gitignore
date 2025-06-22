@@ -400,3 +400,4 @@ FodyWeavers.xsd
 *.venv
 venv
 local.settings.json
+__blobstorage__/
